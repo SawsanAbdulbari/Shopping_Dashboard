@@ -2,6 +2,7 @@ import streamlit as st                      # Python library for dashboard
 import plotly.express as px                 # Python library for more affective visualizations
 import plotly.graph_objects as go
 import pandas as pd                         # Python library for data manipulation
+import matplotlib.pyplot as plt
 import warnings
 warnings.filterwarnings('ignore')
 
