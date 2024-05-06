@@ -55,4 +55,4 @@ A lot of gratitude to :orange[Prof. Elina Kulmala] For guidance through out the 
 
 # Signature
 st.sidebar.write("")
-st.sidebar.markdown("Made with :green_heart: by :orange[Sawsan Abdulbari, Linda Marin, Sonja Lahti, Olga Hakasuo and Sofia Rots] ")
+st.sidebar.markdown("Made with :green_heart: by :orange[Sawsan Abdulbari & Linda Marin] ")
