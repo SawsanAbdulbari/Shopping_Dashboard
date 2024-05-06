@@ -252,4 +252,4 @@ st.plotly_chart(fig3, use_container_width=True)
 
 # Signature
 st.sidebar.write("")
-st.sidebar.markdown("Made with :green_heart: by :orange[Sawsan Abdulbari, Linda Marin, Sonja Lahti, Olga Hakasuo and Sofia Rots]")
+st.sidebar.markdown("Made with :green_heart: by :orange[Linda Marin & Sawsan Abdulbari]")
